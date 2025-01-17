@@ -21,7 +21,7 @@ Mathematical optimization algorithms: Determining the best price points.
 This project uses a dataset to explore pricing strategies and compares performance between a store and its competitors.
 
 
-**Dataset**
+# **Dataset**
 
 The dataset used in this project contains the following features:
 
